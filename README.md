@@ -1,4 +1,4 @@
-# Projects Images    
+# Project Images    
 
 ---
 
